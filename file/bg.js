@@ -2,7 +2,7 @@
     function initBgVideo() {
         let random = window.getRandom(['1', "2", "3", "4", "5"]);
         var video = document.getElementById('video_source');
-        let src = "../file/" + random + ".mp4";
+        let src = "http://pic.zhoudashen.com/" + random + ".mp4";
         video.src = src;
         document.getElementById('video_bg').load();
     }
