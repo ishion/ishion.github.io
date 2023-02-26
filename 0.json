@@ -396,33 +396,33 @@
         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHhhd2kvMS9tYWluL3R2bGl2ZS50eHQ="
     ]}]}],
      "parses": [
-        {
-            "name": "Json聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "三三解析",
-            "type": 1,
-            "url": "https://jiexi.parses.repl.co/api.php?url="
-        },
-        {
-            "name": "ikunfk1",
-            "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
-        },
-        {
-            "name": "ikunfk2",
-            "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/20230117?url="
-        },
-    {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
-    {"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+        // {
+        //     "name": "虾米解析",
+        //     "type": 3,
+        //     "url": "https://jx.xmflv.com/?url="
+        // },
+        // {
+        //     "name": "冰豆",
+        //     "type": 3,
+        //     "url": "https://bd.jx.cn/?url="
+        // },
+        // {
+        //     "name": "jsonplayer",
+        //     "type": 1,
+        //     "url": "https://jx.jsonplayer.com/player/?url="
+        // },
+        // {
+        //     "name": "爱豆",
+        //     "type": 1,
+        //     "url": "https://jx.aidouer.net/?url="
+        // },
+        // {
+        //     "name": "M3U8",
+        //     "type": 1,
+        //     "url": "https://jx.m3u8.tv/jiexi/?url="
+        // },
+    {"name":"1","type":hls,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=6211682&key=dhprszCLOPQRUY5678&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
+    {"name":"0","type":hls,"url":"https://www.8090g.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
     ],
     "flags":[
 "youku",
