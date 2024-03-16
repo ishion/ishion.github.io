@@ -3,7 +3,7 @@
 	"VersionName": "2.3.1",
 	"VersionCode": "231",
 	"MustUpdate": "1",
-	"Url": "http://www.zhoudashen.com/apk/release/apk.html",
+	"Url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ishion/ishion.github.io/main/app/qingdou/apk.html",
 	"CheckType": "1",
 	"DownloadUrl": "http://down.zhoudashen.com/1653577/qingdou/qingdou2.2.8.apk"
 }
