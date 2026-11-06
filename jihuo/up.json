@@ -1,1 +1,5 @@
-aa
+{
+  "version": "3.13",
+  "url": "https://github.com/ishion/jihuo/releases/download/v3.13/MAS_UI.exe",
+  "notes": "1. 新增在线更新检测；2. 修复卡片文字截断问题。"
+}
